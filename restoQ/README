@@ -1,0 +1,22 @@
+Nama : Yusuf Eko Anggoro
+Kelas: XII-RPL 2
+Rekayasa Perangkat Lunak
+
+
+! Server web aplikasi ini localhost port 8080
+    jikalau anda menggunakan localhost standar , anda bisa mengubah link" yand ada di code
+! Gunakan internet soalnya ad link menuju link google font
+! untuk login 
+    - admin
+        username = admin    
+        password = admin
+    -waiter
+        username = waiter
+        password = waiter
+    -kasir
+        username = kasir
+        kasir    = kasir
+    -owner
+        username = owner
+        password = owner
+    
